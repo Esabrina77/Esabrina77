@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<p style="display: flex; align-item: center; justify-content: center; width: 100%;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Esabrina77&theme=gruvbox&rank=-?" alt="GitHub Trophies" />
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Esabrina77&theme=blueberry&hide_border=true&border_radius=10&locale=fr&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
@@ -13,6 +16,3 @@
 Esabrina77/Esabrina77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p style="display: flex; align-item: center; justify-content: center; width: 100%;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Esabrina77&theme=gruvbox&rank=-?" alt="GitHub Trophies" />
-</p>
