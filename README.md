@@ -9,7 +9,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Esabrina77&theme=gruvbox&rank=-?" alt="GitHub Trophies" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Esabrina77&theme=blueberry&hide_border=true&border_radius=10&locale=fr&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Esabrina77&theme=blueberry&hide_border=true&border_radius=10&locale=fr&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esabrina77&layout=normal&card_width=1000&hide_border=true&theme=chartreuse-dark&langs_count=20)
 <!---
