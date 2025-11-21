@@ -7,9 +7,11 @@
 - ⚡ Fun fact: ...
 ### 📊 Mes Statistiques GitHub
 
-<p style="display: flex; align-item: center; justify-content: center; width: 100%;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Esabrina77&theme=gruvbox&rank=-?" alt="GitHub Trophies" />
-</p>
+### 🏆 Mes Trophées GitHub
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Esabrina77&theme=gruvbox&no-bg=true)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esabrina77&show_icons=true&theme=radical&hide_border=true&locale=fr)](https://github.com/Esabrina77)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esabrina77&show_icons=true&theme=radical&hide_border=true&locale=fr)](https://github.com/Esabrina77)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Esabrina77&theme=radical&hide_border=true&locale=fr)](https://github.com/Esabrina77)
