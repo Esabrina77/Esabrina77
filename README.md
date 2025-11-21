@@ -12,8 +12,6 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esabrina77&show_icons=true&theme=radical&hide_border=true&locale=fr)](https://github.com/Esabrina77)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esabrina77&show_icons=true&theme=radical&hide_border=true&locale=fr)](https://github.com/Esabrina77)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Esabrina77&theme=radical&hide_border=true&locale=fr)](https://github.com/Esabrina77)
 
 [![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Esabrina77&theme=radical&locale=fr)](https://github.com/Esabrina77)
